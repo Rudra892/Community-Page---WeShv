@@ -42,7 +42,7 @@ const RightNav = () => {
               image='https://global-uploads.webflow.com/5dc6336c6ade633733ef6e44/5f32a6c586a545a8a671777c_avatar-nicole.png'
             />
             <Person
-              name='Patel Devrash'
+              name='Panchal Devarsh'
               image='https://global-uploads.webflow.com/5dc6336c6ade633733ef6e44/5f32a6c53947bf7d27758729_avatar-pierre.png'
             />
             <Person />
@@ -51,7 +51,7 @@ const RightNav = () => {
             <Text as='span' fontWeight='bold' fontSize='sm' ml={[10, 4]} mb={5} color="#ff24a4">
               Moderator
             </Text>
-            <Person name='lewis kori' />
+            <Person name='Bhavya Fattania'/>
           </MenuItem>
           <MenuItem boxShadow='sm' bg={bg} mt={7} h='6rem'>
             <Text as='span' fontWeight='bold' fontSize='sm' ml={4} mb={10} color="#ff24a4">
